@@ -1,1 +1,1 @@
-"# pull-request-example-ayfal" 
+"This text is nearly twice as different than in branch2" 
