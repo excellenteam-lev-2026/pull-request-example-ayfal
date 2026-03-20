@@ -1,1 +1,1 @@
-this text is even more different
+this text is nearly twice as different
